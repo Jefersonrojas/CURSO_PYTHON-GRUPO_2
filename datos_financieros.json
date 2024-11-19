@@ -1,0 +1,11 @@
+{
+    "ingresos": [
+        {
+            "monto": 500.0,
+            "fuente": "pago del trabajo",
+            "fecha": "2024-11-16 19:22:03"
+        }
+    ],
+    "gastos": [],
+    "ahorros": 500.0
+}
